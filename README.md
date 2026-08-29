@@ -37,4 +37,4 @@ how they work, then build tools around what I find.
 
 ## GitHub stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukas-Decker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Lukas-Decker&layout=compact)](https://github.com/stats-organization/github-stats-extended)
