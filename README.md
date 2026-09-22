@@ -1,9 +1,10 @@
 # Hi, I'm Lukas
 
-Junior software developer from Germany, currently completing my apprenticeship as a
-Fachinformatiker für Anwendungsentwicklung. By day I build and maintain productive
-enterprise software in an agile team; by night I take games and websites apart to see
-how they work, then build tools around what I find.
+Junior software developer from Germany. I finished my apprenticeship as a
+software developer (German *Fachinformatiker für Anwendungsentwicklung*,
+IHK Saarland) in June 2026. By day I build and maintain productive enterprise
+software in an agile team; by night I take games and websites apart to see how
+they work, then build tools around what I find.
 
 ## What I build
 
@@ -34,6 +35,11 @@ how they work, then build tools around what I find.
 | **Languages** | C++, C#, TypeScript, Python, Go, JavaScript, Dart, Lua, Delphi |
 | **Frameworks & web** | React, Svelte, Flutter, Node.js, REST APIs, WebSockets |
 | **Tools & methods** | Git, Jenkins, PowerShell, CI/CD, Scrum/Kanban, code reviews |
+
+## Elsewhere
+
+My older personal account, mostly forks and small experiments:
+[@KeinNameVorhanden](https://github.com/KeinNameVorhanden)
 
 ## GitHub stats
 
